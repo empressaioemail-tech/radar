@@ -1,0 +1,10 @@
+{
+  "name": "radar",
+  "version": "0.0.0-scaffold",
+  "private": true,
+  "description": "Hauska investor deal radar — Surface repo (Free/Pro/Max). Backend extraction from cortex-api pending.",
+  "type": "module",
+  "scripts": {
+    "typecheck": "echo \"scaffold only — no build yet\""
+  }
+}
